@@ -1,0 +1,9 @@
+ftgles-gambit by James Long
+
+Description
+-----------
+
+Gambit Scheme bindings to the FTGLES library found here:
+http://github.com/jlongster/ftgles
+
+FTGLES is a library for rendering TrueType fonts with OpenGLES.
